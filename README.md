@@ -1,11 +1,11 @@
-ADI Labs Technical Challenge
+ADI Labs Technical Diagnostic
 ===================
 
 We're excited to see that you're interested in joining ADI Labs for the Fall 2019 semester!
 
-In Labs, we build products that are deployed and used by hundreds of students here at Columbia and beyond. To make sure you have enough technical experience to join the team, we've put together a quick technical challenge to assess your ability to use Flask, HTML/CSS, and Git/GitHub.
+In Labs, we build products that are deployed and used by hundreds of students here at Columbia and beyond. To make sure you have enough technical experience to join the team, we've put together a quick technical diagnostic to make sure you are supported. This involves using Flask, HTML/CSS, and Git/GitHub.
 
-This challenge should take about 30 minutes to complete and requires Python 3 (a minimal amount), a basic text editor (ex. Sublime or TextEdit), Git (pre-installed on most computers), and a GitHub account. Please complete this challenge on your own.
+This requires Python 3 (a minimal amount), a basic text editor (ex. Sublime or TextEdit), Git (pre-installed on most computers), and a GitHub account. Please complete this on your own.
 
 
 **NOTE:** The challenge has been shortened to reduce the time needed to complete this part of the application. Specifically, the custom html home page has been removed.
@@ -21,7 +21,7 @@ That's where you come in; we need your help adding a page dedicated to you on ou
 
 Task 1
 -------------
-Fork this repository.
+[Fork](https://help.github.com/en/articles/fork-a-repo) this repository.
 
 Task 2
 -------------
@@ -41,6 +41,8 @@ Similarly, if I navigate to `localhost:5000/pokemon/blastoise`, my page will loo
 ![name_example](images/name.png)
 
 You will find these libraries and websites helpful in completing this task:
+- [Flask Installation](http://flask.palletsprojects.com/en/1.1.x/installation/#)
+- [Flask Quickstart](http://flask.palletsprojects.com/en/1.1.x/quickstart/#) Tip - check out "variable rules" section
 - [Requests](http://docs.python-requests.org/en/master/)
 - [PokeAPI](https://www.pokeapi.co/) -- specifically [this page](https://www.pokeapi.co/docsv2/#pokemon)
 
