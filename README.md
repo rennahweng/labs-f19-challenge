@@ -1,7 +1,7 @@
 ADI Labs Technical Challenge
 ===================
 
-We're excited to see that you're interested in joining ADI Labs for the Fall 2018 semester!
+We're excited to see that you're interested in joining ADI Labs for the Fall 2019 semester!
 
 In Labs, we build products that are deployed and used by hundreds of students here at Columbia and beyond. To make sure you have enough technical experience to join the team, we've put together a quick technical challenge to assess your ability to use Flask, HTML/CSS, and Git/GitHub.
 
