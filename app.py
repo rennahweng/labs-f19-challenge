@@ -20,7 +20,7 @@ def pokemon(query):
 		return '%s has id %s' % (query,r.json()["id"]) #extract the key named "id" from each pokemon's 
 	
 	else:
-		return 'ERROR! Please enter in an id or a name.'
+		return 'ERROR! Please enter in a valid pokemon id or name.' #error message if use input is incorrect
 
 if __name__ == '__main__':
    app.run(debug=True)
